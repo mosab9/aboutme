@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate fullstack developer in Amsterdam</h3>
+<h1 align="center">Hi 👋, I'm Musab</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **three.js (frontend), kubernetes (devops)**
+- 🌱 I’m currently learning **goLang**
 
-- 📝 I regularly write articles on [https://abba.dev/blog](https://abba.dev/blog)
+- 📝 I regularly write articles on 
 
-- 💬 Ask me about **react, node.js, aws**
+- 💬 Ask me about **Java, react.js, aws**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
